@@ -8,5 +8,9 @@
     .nav-desktop {
         display: none;
     }
+    .header-banner-section {
+        padding: 80px 0 30px 0;
+        background-position: center;
+    }
     
 }
