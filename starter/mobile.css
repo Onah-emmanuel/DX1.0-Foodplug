@@ -22,4 +22,10 @@
         min-width: 90%;
         margin: 20px 0;
     }
+    .explorefoods-card {
+        margin: 20px 0;
+    }
+    .faq-items {
+        min-width: 100%;
+    }
 }
