@@ -28,4 +28,12 @@
     .faq-items {
         min-width: 100%;
     }
+    .cta-showcase {
+        flex-direction: column;
+        padding: 0 20px;
+        text-align: center;
+    }
+    .cta-notice {
+        padding: 30px 20px;
+    }
 }
